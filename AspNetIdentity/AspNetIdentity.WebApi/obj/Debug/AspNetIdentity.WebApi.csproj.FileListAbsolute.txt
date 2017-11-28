@@ -180,6 +180,5 @@ F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebA
 F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Google.xml
 F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
 F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.csprojResolveAssemblyReference.cache
 F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.dll
 F:\Git_Learning\Authentication\Authentication\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.pdb
